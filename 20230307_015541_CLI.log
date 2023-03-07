@@ -1,0 +1,13 @@
+[2023-03-07 01:55:41.167 CLI I] codespaces v1.1.1134.11257 (pid: 9440)
+[2023-03-07 01:55:41.174 CLI I] /root/.vs-liveshare-settings.json File does not exist
+[2023-03-07 01:55:41.185 CLI I] /root/.vs-liveshare-settings.json file is loaded with IsCloudEnvironment as true
+[2023-03-07 01:55:41.327 CLI I] Cannot find environment variable file /root/.codespaces/shared/environment-variables.json
+[2023-03-07 01:55:41.328 CLI I] Attempting to read user settings from: /root/.vs-liveshare-settings.json
+[2023-03-07 01:55:41.552 CLI I] Parsed environment variables from /root/.codespaces/shared/environment-variables.json
+[2023-03-07 01:55:41.562 CLI I] CreationLogWriter:: stateManager.StateChangedEvent: PreparingPrebuildTemplate
+[2023-03-07 01:55:42.293 CLI I] Parsed environment variables from /root/.codespaces/shared/environment-variables.json
+[2023-03-07 01:55:42.348 CLI I] Parsed environment variables from /root/.codespaces/shared/environment-variables.json
+[2023-03-07 02:00:22.841 CLI I] CreationLogWriter:: stateManager.StateChangedEvent: PrebuildTemplateReady
+[2023-03-07 02:00:50.410 CLI I] CreationLogWriter:: stateManager.StateChangedEvent: EnvironmentStarted
+[2023-03-07 02:00:50.423 CLI I] CreationLogWriter:: stateManager.StateChangedEvent: StoppingEnvironment
+[2023-03-07 02:00:50.424 CLI I] CreationLogWriter::CopyToPrebuildCreationLogAsync completed
